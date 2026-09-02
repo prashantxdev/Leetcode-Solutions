@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [2235-add-two-integers](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
