@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
