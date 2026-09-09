@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0485-max-consecutive-ones](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
