@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2235-add-two-integers](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/2235-add-two-integers) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
