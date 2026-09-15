@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -97,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0018-4sum) |
 ## Sliding Window
 |  |
 | ------- |
