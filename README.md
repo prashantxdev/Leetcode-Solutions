@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2235-add-two-integers](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/2235-add-two-integers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -119,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
