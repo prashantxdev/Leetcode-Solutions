@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -124,9 +125,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
