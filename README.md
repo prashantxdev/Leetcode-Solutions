@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0835-image-overlap) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Union-Find
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
