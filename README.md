@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3524-find-x-value-of-array-i](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
