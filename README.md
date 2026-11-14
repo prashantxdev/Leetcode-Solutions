@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
