@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0062-unique-paths) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/prashantxdev/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
